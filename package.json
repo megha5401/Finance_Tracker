@@ -2,12 +2,18 @@
   "name": "finance-tracker",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://megha5401.github.io/Finance-tracker",
+=======
+>>>>>>> 57f81fe8120fb207422d8efecef0bc43655bf735
   "dependencies": {
     "chart.js": "^4.4.7",
     "cra-template": "1.2.0",
     "firebase": "^11.2.0",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 57f81fe8120fb207422d8efecef0bc43655bf735
     "react": "^19.0.0",
     "react-chartjs-2": "^5.3.0",
     "react-dom": "^19.0.0",
@@ -19,9 +25,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> 57f81fe8120fb207422d8efecef0bc43655bf735
   },
   "eslintConfig": {
     "extends": [
