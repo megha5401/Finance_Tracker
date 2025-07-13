@@ -90,7 +90,7 @@ const LoginPage = () => {
             <button
               type="submit"
               disabled={loading}
-              className="btn-primary"
+              className="transaction-btn"
             >
               {loading ? 'Signing in...' : 'Sign in'}
             </button>

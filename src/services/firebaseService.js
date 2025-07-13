@@ -1,17 +1,7 @@
-import { 
-  collection, 
-  addDoc, 
-  updateDoc, 
-  deleteDoc, 
-  doc, 
-  query, 
-  where, 
-  orderBy, 
-  getDocs,
-  getDoc,
-  setDoc,
-  serverTimestamp 
-} from 'firebase/firestore';
+import {
+  addDoc, collection, serverTimestamp, doc, updateDoc, deleteDoc,
+  query, where, orderBy, getDocs, setDoc, getDoc
+} from "firebase/firestore";
 import { db } from '../firebase';
 
 // Transaction operations
