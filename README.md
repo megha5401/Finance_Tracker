@@ -13,17 +13,13 @@ A modern, responsive Personal Finance Tracker built with React and Firebase. Tra
 - Robust error handling and helpful messages
 
 ## Demo
-<img width="1918" height="893" alt="login page" src="https://github.com/user-attachments/assets/312cffad-1ab4-43b1-91bf-3d8dc18787c5" />
-<img width="1918" height="896" alt="signup page" src="https://github.com/user-attachments/assets/a9c66ed7-8f5d-4bc0-9947-826448b8b15d" />
-<img width="1918" height="897" alt="dashboard page 1" src="https://github.com/user-attachments/assets/3e67750b-359a-4260-a1bc-e410b6d55d15" />
-<img width="1917" height="897" alt="dashboard page 2" src="https://github.com/user-attachments/assets/437c9436-d23b-48b4-bd0b-e785fc539665" />
-<img width="1918" height="715" alt="dashboard page 3" src="https://github.com/user-attachments/assets/05e8d5ef-a928-48fd-8eb7-129367f93a35" />
-
-<img width="1647" height="770" alt="dashboard page 4" src="https://github.com/user-attachments/assets/66cca407-6eb6-4bbb-a18b-cf91989154d1" />
-
-<img width="1917" height="500" alt="dashboard page 4" src="https://github.com/user-attachments/assets/071587ed-2f30-43d7-8f0b-25b3a76c8e8c" />
-<img width="1918" height="896" alt="dashboard page 5" src="https://github.com/user-attachments/assets/eae52018-4d00-4625-a450-ce410c8d75aa" />
-
+<img width="1918" height="893" alt="login page" src="https://github.com/user-attachments/assets/84298ef7-572c-49d5-912a-5020b9f11d72" />
+<img width="1918" height="896" alt="signup page" src="https://github.com/user-attachments/assets/262524dc-2ade-4021-b618-719d7c6cbe2b" />
+<img width="1918" height="897" alt="dashboard page 1" src="https://github.com/user-attachments/assets/3c2cb482-e91b-4005-8bda-eea7b8235c8f" />
+<img width="1918" height="897" alt="dashboard page 2" src="https://github.com/user-attachments/assets/5ca4e184-59ab-4738-9580-5d7e88c729cb" />
+<img width="1918" height="897" alt="dashboard page 3" src="https://github.com/user-attachments/assets/4b41dd06-190f-472e-99cd-950c7f25670f" />
+<img width="1918" height="896" alt="dashboard page 4" src="https://github.com/user-attachments/assets/eb5bafed-1938-48ba-a0d5-52cf04de30fe" />
+<img width="1918" height="895" alt="dashboard page 5" src="https://github.com/user-attachments/assets/10213b16-b53c-4d96-9ca7-5167a12e990b" />
 
 ## Getting Started
 
