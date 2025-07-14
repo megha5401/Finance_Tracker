@@ -17,9 +17,9 @@ A modern, responsive Personal Finance Tracker built with React and Firebase. Tra
 <img width="1918" height="896" alt="signup page" src="https://github.com/user-attachments/assets/a9c66ed7-8f5d-4bc0-9947-826448b8b15d" />
 <img width="1918" height="897" alt="dashboard page 1" src="https://github.com/user-attachments/assets/3e67750b-359a-4260-a1bc-e410b6d55d15" />
 <img width="1917" height="897" alt="dashboard page 2" src="https://github.com/user-attachments/assets/437c9436-d23b-48b4-bd0b-e785fc539665" />
-<img width="1918" height="897" alt="dashboard page 3" src="https://github.com/user-attachments/assets/14082a85-70b2-41ad-985b-5b45e78613cc" />
-<img width="1917" height="895" alt="dashboard page 4" src="https://github.com/user-attachments/assets/7bc59347-dc15-4891-a221-567324675473" />
-<img width="1918" height="500" alt="dashboard page 5" src="https://github.com/user-attachments/assets/a5ef98db-b2e5-4701-a797-34a466eb7e32" />
+<img width="1918" height="715" alt="dashboard page 3" src="https://github.com/user-attachments/assets/05e8d5ef-a928-48fd-8eb7-129367f93a35" />
+<img width="1917" height="500" alt="dashboard page 4" src="https://github.com/user-attachments/assets/071587ed-2f30-43d7-8f0b-25b3a76c8e8c" />
+<img width="1918" height="896" alt="dashboard page 5" src="https://github.com/user-attachments/assets/eae52018-4d00-4625-a450-ce410c8d75aa" />
 
 
 ## Getting Started
