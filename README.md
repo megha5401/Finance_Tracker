@@ -18,6 +18,9 @@ A modern, responsive Personal Finance Tracker built with React and Firebase. Tra
 <img width="1918" height="897" alt="dashboard page 1" src="https://github.com/user-attachments/assets/3e67750b-359a-4260-a1bc-e410b6d55d15" />
 <img width="1917" height="897" alt="dashboard page 2" src="https://github.com/user-attachments/assets/437c9436-d23b-48b4-bd0b-e785fc539665" />
 <img width="1918" height="715" alt="dashboard page 3" src="https://github.com/user-attachments/assets/05e8d5ef-a928-48fd-8eb7-129367f93a35" />
+
+<img width="1647" height="770" alt="dashboard page 4" src="https://github.com/user-attachments/assets/66cca407-6eb6-4bbb-a18b-cf91989154d1" />
+
 <img width="1917" height="500" alt="dashboard page 4" src="https://github.com/user-attachments/assets/071587ed-2f30-43d7-8f0b-25b3a76c8e8c" />
 <img width="1918" height="896" alt="dashboard page 5" src="https://github.com/user-attachments/assets/eae52018-4d00-4625-a450-ce410c8d75aa" />
 
