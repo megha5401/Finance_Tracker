@@ -13,9 +13,8 @@ A modern, responsive Personal Finance Tracker built with React and Firebase. Tra
 - Robust error handling and helpful messages
 
 ## Demo
-![Screenshot]
 <img width="1918" height="893" alt="login page" src="https://github.com/user-attachments/assets/312cffad-1ab4-43b1-91bf-3d8dc18787c5" />
-<img width="1918" height="896" alt="signup page" src="https://github.com/user-attachments/assets/acc1f3f9-f180-4c33-b748-93f92b517a77" />
+<img width="1918" height="700" alt="signup page" src="https://github.com/user-attachments/assets/acc1f3f9-f180-4c33-b748-93f92b517a77" />
 <img width="1918" height="897" alt="dashboard page 1" src="https://github.com/user-attachments/assets/3e67750b-359a-4260-a1bc-e410b6d55d15" />
 <img width="1917" height="897" alt="dashboard page 2" src="https://github.com/user-attachments/assets/437c9436-d23b-48b4-bd0b-e785fc539665" />
 <img width="1918" height="897" alt="dashboard page 3" src="https://github.com/user-attachments/assets/14082a85-70b2-41ad-985b-5b45e78613cc" />
